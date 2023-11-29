@@ -1,0 +1,14 @@
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\Task_02.AssemblyInfoInputs.cache
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\Task_02.AssemblyInfo.cs
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\Task_02.csproj.CoreCompileInputs.cache
+D:\study_IT\new_c#\3_seminar\Task_02\bin\Debug\net7.0\Task_02.exe
+D:\study_IT\new_c#\3_seminar\Task_02\bin\Debug\net7.0\Task_02.deps.json
+D:\study_IT\new_c#\3_seminar\Task_02\bin\Debug\net7.0\Task_02.runtimeconfig.json
+D:\study_IT\new_c#\3_seminar\Task_02\bin\Debug\net7.0\Task_02.dll
+D:\study_IT\new_c#\3_seminar\Task_02\bin\Debug\net7.0\Task_02.pdb
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\Task_02.dll
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\refint\Task_02.dll
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\Task_02.pdb
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\Task_02.genruntimeconfig.cache
+D:\study_IT\new_c#\3_seminar\Task_02\obj\Debug\net7.0\ref\Task_02.dll
